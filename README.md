@@ -1,4 +1,4 @@
-# Otto-Group-Product-Classification
+# in process: Otto-Group-Product-Classification
 Product classifcation models in R
 
 The Otto Group is one of the world’s biggest e-commerce companies, with subsidiaries in more than 20 countries, including Crate & Barrel (USA), Otto.de (Germany) and 3 Suisses (France).
